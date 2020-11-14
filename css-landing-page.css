@@ -1,0 +1,99 @@
+body{
+  background-color: #f6f6f6;
+  font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 15px;
+}
+
+
+
+.search{
+  font-size: 13px;
+  text-align: center;
+  margin-right: 70px;
+}
+.enter{
+  background-color:  #ffd900d0;
+  line-height: 20px;
+  border: none;
+  display: inline-block;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: 700;
+}
+.input{
+  width: 290px;
+  line-height: 25px;
+}
+
+.table{
+    margin-top: 80px;
+    margin-left:200px;
+    text-align: left;
+    
+}
+
+
+#video{
+  margin-top: 50px;
+  width: 500px;
+  height:300px;
+  margin-left:100px;
+}
+.care{
+  
+  
+  margin-top: 20px;
+  border:groove;
+  padding-bottom: 0px;
+  text-align: center;
+  height: 250px;
+  width: 250px;
+}
+
+.select{
+  background-color: #ffd800;
+  border: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: 5px;
+  line-height: 30px;
+  width: 110px;
+  margin-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.font-care{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-weight: revert;
+  font-size: 15px;
+  margin: 0;
+  background-color: #DDDDDD;
+
+}
+
+
+
+
+.menu-style{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden
+}
+.footer-menu{
+  display: inline;
+  padding:10px;
+   float: right;
+}
+.copyright{
+ text-align: right;
+ font-size: 15px;
+ color:darkgrey;
+ margin-top: 0%;
+}
